@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "ayu-dark.sublime-theme"
+
+
+}
